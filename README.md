@@ -1,4 +1,7 @@
 # 超模脸生成器
+<br />
+&emsp;&emsp;<b>注明：这个项目之前收费过一段时间，在此衷心地感谢那些购买者给我提供的支持。目前已经攒够了资金满足我的需求，接下来我想专心地去做进一步的研究，所以seeprettyface生成器都免费开源了，大家可以自行下载研究。不过，如果项目对您有帮助的话，还是欢迎您给予我一些小小的赞助的嘿嘿~（地址在底部哦）</b><br />
+--------------------------------------------------------------------------------------------------------------------<br /><br />
 &emsp;&emsp;这是一个用StyleGAN训练出的超模人脸生成器，生成效果如下所示。<br /><br /><br />
 
 # 生成示例
@@ -40,8 +43,18 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
-&emsp;&emsp;&emsp;&emsp;注明：此模型训练不易，对于开发者来说可能需要付费购买，前50名购买者免费赠送人脸属性编辑器。<br/>
 &emsp;&emsp;2.运行generate_model.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
-![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)
+![Image text](https://github.com/a312863063/seeprettyface/blob/master/EP001-01.png)<br/><br/><br/>
+
+## 小小的赞助~
+<p align="center">
+	<img src="https://github.com/a312863063/seeprettyface/blob/master/sponsor.jpg" alt="Sample"  width="324" height="504">
+	<p align="center">
+		<em>模型训练不易，若对您有帮助可给予小小的支持~</em>
+	</p>
+</p>
+<br/><br/><br/>
+
+
