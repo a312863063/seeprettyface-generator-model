@@ -44,7 +44,6 @@
 
 ## 运行步骤
 &emsp;&emsp;1.在model文件夹中按照txt地址下载模型，放在该位置<br/>
-&emsp;&emsp;&emsp;&emsp;注明：由于此模型训练成本高，需付费购买，获取方式参见model/模型下载地址.txt。<br/>
 &emsp;&emsp;2.运行generate_model.py<br/>
 <br /><br /><br />
 ## 获取训练集：[点此下载](http://www.seeprettyface.com/mydataset_page2.html)
